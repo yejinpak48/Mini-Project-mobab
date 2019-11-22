@@ -1,0 +1,7 @@
+sample1, pwd1, 홍길동, sample@naver.com, 010-1234-5678, KH정보교육원, C, 36, 남, 0, 70500
+sample2, pwd2, 김문박, kmp123@naver.com, 010-2222-3333, KH정보교육원, C, 42, 남, 0, 60000
+sample3, pwd3, 유관순, kkd123@naver.com, 010-9876-5678, KH정보교육원, C, 28, 여, 0, 0
+p, p, p, p, p, p, p, 20, 남, 0, 80000
+a, a, a, a, 010-1234-5678, a, a, 20, 남, 0, 0
+aa, a, a, a, a, a, a, 20, 남, 0, 0
+dd, d, d, d, d, d, d, 20, 남, 0, 35900
